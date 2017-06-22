@@ -114,3 +114,4 @@ BSD-2-Clause. See the [LICENSE](LICENSE.md).
 - Factory method for server addresses
 - Add support von vCard
 - improve documentation
+- Add subscribe options
